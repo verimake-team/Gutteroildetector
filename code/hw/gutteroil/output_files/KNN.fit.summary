@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Dec 19 16:17:31 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : KNN
+Top-level Entity Name : KNN
+Family : Cyclone 10 LP
+Device : 10CL006ZU256I8G
+Timing Models : Final
+Total logic elements : 849 / 6,272 ( 14 % )
+    Total combinational functions : 814 / 6,272 ( 13 % )
+    Dedicated logic registers : 374 / 6,272 ( 6 % )
+Total registers : 374
+Total pins : 37 / 177 ( 21 % )
+Total virtual pins : 0
+Total memory bits : 19,200 / 276,480 ( 7 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

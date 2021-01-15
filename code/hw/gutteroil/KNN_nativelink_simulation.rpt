@@ -1,0 +1,22 @@
+Info: Start Nativelink Simulation process
+
+========= EDA Simulation Settings =====================
+
+Sim Mode              :  Gate
+Family                :  cyclone10lp
+Quartus root          :  d:/quartus/quartus/bin64/
+Quartus sim root      :  d:/quartus/quartus/eda/sim_lib
+Simulation Tool       :  modelsim
+Simulation Language   :  verilog
+Simulation Mode       :  GUI
+Sim Output File       :  KNN.vo
+Sim SDF file          :  KNN__verilog.sdo
+Sim dir               :  simulation\modelsim
+
+=======================================================
+
+Info: Starting NativeLink simulation with ModelSim software
+Sourced NativeLink script d:/quartus/quartus/common/tcl/internal/nativelink/modelsim.tcl
+Warning: File KNN_run_msim_gate_verilog.do already exists - backing up current file as KNN_run_msim_gate_verilog.do.bak
+Info: Spawning ModelSim Simulation software 
+Info: NativeLink simulation flow was successful

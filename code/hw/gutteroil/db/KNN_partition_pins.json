@@ -1,0 +1,173 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_knn",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "feature[8]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[0]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[24]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[16]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[9]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[1]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[25]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[17]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[15]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[14]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[13]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[12]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[11]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[10]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[7]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[6]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[5]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[4]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[3]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[2]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[31]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[30]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[29]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[28]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[27]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[26]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[23]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[22]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[21]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[20]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[19]",
+					"strict" : false
+				},
+				{
+					"name" : "feature[18]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

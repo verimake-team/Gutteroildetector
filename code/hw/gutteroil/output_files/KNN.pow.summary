@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sat Dec 19 15:55:31 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : KNN
+Top-level Entity Name : KNN
+Family : Cyclone 10 LP
+Device : 10CL006ZU256I8G
+Power Models : Final
+Total Thermal Power Dissipation : 65.62 mW
+Core Dynamic Thermal Power Dissipation : 3.33 mW
+Core Static Thermal Power Dissipation : 37.94 mW
+I/O Thermal Power Dissipation : 24.35 mW
+Power Estimation Confidence : High: user provided sufficient toggle rate data
