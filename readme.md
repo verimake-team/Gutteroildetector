@@ -9,8 +9,6 @@ __     __        _                 _
    \_/ \___|_|  |_|_| |_| |_|\__,_|_|\_\___|
  </pre>
  
- ## Our patent application is waiting to be assigned and reviewed, the related code will be uploaded later after the review process. 
- 
 ![markdown](https://github.com/verimake-team/Gutteroildetector/blob/master/20201017131247.jpg?raw=true)
 
 ![markdown](https://github.com/verimake-team/Gutteroildetector/blob/master/20201017131335.jpg?raw=true)
